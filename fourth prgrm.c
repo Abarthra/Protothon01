@@ -1,0 +1,5 @@
+x=str(input("enter the sentence:"))
+print(x.upper())
+print(x.lower())
+print(x.title())
+print(x.capitalize())
